@@ -37,9 +37,11 @@ ul  {
 }
 
 ul li {
-    padding-bottom: 6px;
-    padding-top: 6px;
+    padding-bottom: 15px;
+    padding-top: 12px;
+    border-bottom: 1px solid;
 }
+
 
 ul li:first-child {
     padding-top: 16px;
