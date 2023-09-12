@@ -29,7 +29,10 @@ header img {
     width: 145px;
     height: 117px;
 }
-
+ 
+.header-artical {
+    background-color: #fff;
+}
 ul  {
     list-style: none;   
     padding: 0;
